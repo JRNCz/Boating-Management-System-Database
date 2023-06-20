@@ -5,7 +5,7 @@ PostgreSQL database for management of boats
 
 https://web2.tecnico.ulisboa.pt/ist1102247/main.cgi
 - SQL injection protected
-- web.pdf for more information (written in portuguese)
+- report25.pdf for more information (written in portuguese)
 
 ### ER Diagram of the project
 
