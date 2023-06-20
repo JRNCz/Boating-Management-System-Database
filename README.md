@@ -14,7 +14,7 @@ Present in erdiagram.pdf
 ### General overview:
 
 - view.sql : Views creation
-- queries.sql: Queries creation
+- queries.sql: Queries creation (HAVING, GROUP BY ect...)
 - populate.sql: Data population trought the tables
 - ICS.sql: complex integrity constraints (Triggers)
 - analytics.sql: used for complex analysis of data (GROUP BY ROLLUP, GROUPING SETS...)
