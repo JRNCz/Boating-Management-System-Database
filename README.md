@@ -4,6 +4,8 @@ PostgreSQL database for management of boats
 ### Take a look at a small web application with this database:
 
 https://web2.tecnico.ulisboa.pt/ist1102247/main.cgi
+- SQL injection protected
+- web.pdf for more information (written in portuguese)
 
 ### ER Diagram of the project
 
